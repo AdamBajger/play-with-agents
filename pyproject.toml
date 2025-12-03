@@ -1,0 +1,17 @@
+[project]
+name = "llmagents"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "ipykernel>=7.1.0",
+    "matplotlib>=3.10.7",
+    "nest-asyncio>=1.6.0",
+    "opencv-python>=4.12.0.88",
+    "plotly>=6.5.0",
+    "plotly-express>=0.4.1",
+    "pydantic-ai>=1.25.1",
+    "pyvips[binary]>=3.0.0",
+    "tqdm>=4.67.1",
+]
